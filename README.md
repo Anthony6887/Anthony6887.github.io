@@ -13,7 +13,9 @@ Habilidades: Aun no tengo ninguna habilidad perfeccionada en ningún lenguaje de
 - 📫 Cómo contactarme: asolis@uta.edu.ec
 - 📲 Whatsapp: +593 987153094
 
-
+### Experiencia
+En el ambito laboral no tengo ninguna.
+Tengo un tiempo usando varias herramientas y autoeducandome para mejorar en diferentes aspectos que debo mejorar.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anthony6887)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/@anthonysolis2001/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@antho6887)  
 
