@@ -1,13 +1,16 @@
 {
+  "homepage": "https://Anthony6887.github.io/portfolio",
   "name": "3dfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Anthony6887.github.io/Portafolio/build",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "start": "react-scripts start",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
